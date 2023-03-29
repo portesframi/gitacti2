@@ -1,5 +1,5 @@
     #include <stdio.h>
-    #define N 1000
+    #define N 10
 
     int num[N];
 
