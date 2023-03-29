@@ -1,5 +1,5 @@
 #include <stdio.h>
-//#define cantidad 8
+// #define cantidad 8
 int main() {
 	int cantidad;
 	int costo;
