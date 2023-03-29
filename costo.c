@@ -1,8 +1,10 @@
 #include <stdio.h>
-#define cantidad 8
+//#define cantidad 8
 int main() {
-
+	int cantidad;
 	int costo;
+	printf("Introduzca la cantidad a comprar : ");
+	scanf("%i",&cantidad);
 	switch(cantidad){
 		case 1: case 2: case 3:
 			costo = 15;
